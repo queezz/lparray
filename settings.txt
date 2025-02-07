@@ -1,0 +1,4 @@
+142364 # shot number
+6 # channel number
+3.6 # start time
+5.5 # end time
